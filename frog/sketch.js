@@ -149,12 +149,12 @@ function keyPressed() {
       if(f==80)
       {
           
-          f = 45;//degrees
+          f = 30;//degrees
       }
       else
       {
          
-          f = 80;//degrees
+          f = 70;//degrees
       }
       
       
